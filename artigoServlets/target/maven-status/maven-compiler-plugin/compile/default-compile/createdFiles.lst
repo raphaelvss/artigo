@@ -1,0 +1,5 @@
+br\catolica\artigoservlets\dao\PessoaDAO.class
+br\catolica\artigoservlets\model\Pessoa.class
+br\catolica\artigoservlets\controller\PessoaController.class
+br\catolica\artigoservlets\conexao\ConnectionFactory.class
+br\catolica\artigoservlets\model\Cidade.class
